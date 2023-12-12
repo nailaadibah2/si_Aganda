@@ -1,0 +1,14 @@
+{
+    "folders" : [
+        {
+            "path": "../../myapp1"
+        },
+        {
+            "path": "../../arsip_1"
+        },
+        {
+            "path": ".."
+        }
+    ],
+    "settings": {}
+}
